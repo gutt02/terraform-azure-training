@@ -6,8 +6,6 @@
 * Hier wollen wir ein paar Basisinformationen für den Start vermitteln.
 * Innerhalb der Arvato Systems hat sich Terraform als Tool zur Bereitstellung der entsprechenden Infrastruktur etabliert.
 * Ein wesentlicher Vorteil von Terraform ist, dass die drei großen Cloud Provider Azure (Microsoft), AWS (Amazon) und GCP (Google) unterstützt werden.
-* Für größere Projekte werden die Services auch oft durch die Kollegen aus dem Rechenzentrum bereitgestellt.
-* Ist zum Start des Projekts abzusehen, dass die spätere Betreuung durch Arvato Systems erfolgen wird, dann sprecht zeitnah mit den Kollegen aus dem Team von Jannis Lünne.
 
 ## Was ist Terraform?
 
