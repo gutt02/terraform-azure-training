@@ -4,7 +4,6 @@
 
 * Bereitstellung von Services in der Cloud, gerne auch IaC genannt, sollte weitestgehend automatisiert erfolgen.
 * Hier wollen wir ein paar Basisinformationen für den Start vermitteln.
-* Innerhalb der Arvato Systems hat sich Terraform als Tool zur Bereitstellung der entsprechenden Infrastruktur etabliert.
 * Ein wesentlicher Vorteil von Terraform ist, dass die drei großen Cloud Provider Azure (Microsoft), AWS (Amazon) und GCP (Google) unterstützt werden.
 
 ## Was ist Terraform?
