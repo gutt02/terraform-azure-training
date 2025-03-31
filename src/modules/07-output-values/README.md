@@ -35,12 +35,12 @@ terraform {
   required_providers {
     azurerm = {
       source  = "hashicorp/azurerm"
-      version = "~> 3.42.0"
+      version = "~> 4.25.0"
 
     }
   }
 
-  required_version = ">= 1.2.8"
+  required_version = ">= 1.9.8"
 }
 
 provider "azurerm" {
@@ -53,7 +53,7 @@ provider "azurerm" {
 
 resource "azurerm_storage_account" "strg" {
   name                = "tftgutt02strg"
-  resource_group_name = "tf-training-GUTT02-rg"
+  resource_group_name = "tf-training-gutt02-rg"
   location            = var.location
 
   account_kind             = "StorageV2"
